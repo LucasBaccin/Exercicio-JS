@@ -19,3 +19,5 @@ for (let a = 1; a < num.length; a++){
 
 console.log('Índice do maior número:', indiceMaior)
 console.log('Índice do menor número:', indiceMenor)
+
+module.exports = {indiceMaior, indiceMenor}

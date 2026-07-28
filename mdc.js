@@ -19,3 +19,5 @@ console.log(mdc(48, 81));
 console.log(mdc(48, 79)); //aqui como estamos com um número primo, esperamos que o retorno seja 1
 
 console.log(mdc(15, 105));
+
+module.exports = {mdc}

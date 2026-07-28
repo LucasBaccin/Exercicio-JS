@@ -12,3 +12,5 @@ for (let a = 1; a <= 999; a++){
 }
 
 console.log(soma);
+
+module.exports = {soma}

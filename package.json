@@ -1,0 +1,24 @@
+{
+  "name": "exercicio-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasBaccin/Exercicio-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LucasBaccin/Exercicio-JS/issues"
+  },
+  "homepage": "https://github.com/LucasBaccin/Exercicio-JS#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
