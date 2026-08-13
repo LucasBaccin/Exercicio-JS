@@ -1,0 +1,24 @@
+{
+  "name": "exercicio-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasBaccin/Exercicio-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LucasBaccin/Exercicio-JS/issues"
+  },
+  "homepage": "https://github.com/LucasBaccin/Exercicio-JS#readme",
+  "devDependencies": {
+    "cypress": "^15.20.1"
+  }
+}
