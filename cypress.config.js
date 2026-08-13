@@ -1,6 +1,8 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
+  projectId: "hin9q8",
+  
   allowCypressEnv: false,
 
   e2e: {
